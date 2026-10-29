@@ -1,2 +1,7 @@
-# sdemon13.github.io
-Personal portfolio of Sergei Butorin — multilingual contributor and industrial maintenance trainee based in Nice, France.
+# Sergei Butorin
+
+Personal portfolio in English, French and Russian.
+
+Static HTML, CSS and JavaScript. No build step or external dependencies.
+
+Published with GitHub Pages at https://sdemon13.github.io/
